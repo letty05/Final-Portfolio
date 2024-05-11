@@ -1,0 +1,58 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{ 
+    width: 180%;
+    margin-top: 1cm;
+    }
+.code{
+    display: flex;
+    justify-content: center;
+}
+.card .code .group-2{
+    border:2px black solid;
+    padding: 10px;
+    background-color: gray;
+    line-height: 0.2cm;
+    margin-left: 5cm;
+    padding-bottom: 10px;
+    
+
+
+}
+.noted{
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+.group-3{
+    border: 2px black solid;
+    padding: 30px;
+    border-radius: 10px;
+    
+    background-color: gray;
+    font-size: medium;
+    line-height:0.5cm ;
+    padding-right: 5cm;
+
+
+}
+.group-4{
+    border: 2px black solid;
+}
+ 
+    
+
+    
+
+  
